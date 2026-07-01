@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Hybrid_Navarasa_FER"
+type: software
+
+authors:
+  - family-names: "Chand"
+    given-names: "Varun H"
+  - family-names: "Tran"
+    given-names: "Tien Anh"
+  - family-names: "Sonsare"
+    given-names: "Pravinkumar M"
+  - family-names: "Resmi"
+    given-names: "Ananda S"
+  - family-names: "Agrawal"
+    given-names: "Pratik"
+
+repository-code: "https://github.com/<your-github-username>/Hybrid_Navarasa_FER"
+
+abstract: >
+  Reproducible implementation accompanying the manuscript
+  "A Global–Local Hybrid Transformer Framework for Automatic
+  Navarasa Facial Expression Recognition". The repository
+  contains modular Jupyter notebooks covering data preprocessing,
+  feature extraction, hybrid model training, evaluation,
+  statistical analysis, Grad-CAM explainability, and ablation study.
+
+keywords:
+  - facial expression recognition
+  - Navarasa
+  - Vision Transformer
+  - Swin Transformer
+  - Hybrid Transformer
+  - Deep Learning
+  - Explainable AI
+
+license: MIT
+version: "1.0.0"
+date-released: "2026-07-01"
